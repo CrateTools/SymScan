@@ -7,6 +7,6 @@ SymScan looks through disks on a Windows computer and lists symbolic links, junc
 SymScan Lite: Free
 
 
-SymScan Technician's: 
+SymScan Technician: 
 
 
