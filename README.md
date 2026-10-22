@@ -1,4 +1,4 @@
-<img width="568" height="158" alt="tron4" src="https://github.com/user-attachments/assets/43feefae-d98c-4ab7-9d5d-69941465d9dd" />
+<img width="1280" height="356" alt="tron4" src="https://github.com/user-attachments/assets/e8eec893-8016-4910-8bd7-ed40597475c3" />
 
 # SymScan
 
