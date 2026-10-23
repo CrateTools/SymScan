@@ -2,7 +2,7 @@
 
 # SymScan Lite
 
-Find every link on your Windows computer. SymScan Lite lists every symbolic link and junction on your disks, shows where each one points, and tells you whether the target is still there. Scanning changes nothing.
+Find every link on your Windows computer. SymScan Lite lists every symbolic and junction link on your disks, shows where each one points, and tells you whether the target is still there. Scanning changes nothing.
 
 Features
 Scans whole computer or only the folders you choose
@@ -19,22 +19,15 @@ Go to Releases and download SymScan-Lite.zip.
 Unzip it into a folder your user account can write to, for example Documents\SymScan. Do not use Program Files.
 Double-click SymScan-Lite.exe.
 
-Windows may say "Windows protected your PC". Click More info, then Run anyway. This happens because the program is not signed with a paid certificate.
+Windows may say "Windows protected your PC", but rare, if so click More info, then Run anyway. This happens because the program is not signed with a paid certificate.
 
 Using it
-Double-click SymScan-Lite.exe. A black window opens and your browser shows SymScan. Keep the black window open while you work. Closing it stops SymScan.
-Click New scan. Tick the disks or folders you want (expand a disk to pick a folder inside it). Leave everything unticked to scan the whole computer.
+Double-click SymScan-Lite.exe. A SymScan console opens, your browser launches and shows SymScan. Keep SymScan console open while you work. Closing it stops SymScan.
+Click New scan. Tick the disks or folders you want (expand a disk to pick a folder inside it). Leave everything unticked to scan the whole computer (could take many hours).
 When the scan finishes, the Links page lists every link. Click a link to see its details.
 Click Save results to keep a report as a text file.
 
 If the top bar says Limited access, some folders were skipped. Click Restart as administrator and choose Yes on the Windows prompt.
-
-Where things are saved
-
-Everything stays inside the SymScan folder:
-
-data\ – the last scan results
-temp\ – temporary working files, safe to delete
 
 SymScan Lite does not keep a history of scans. Save the report if you want to keep a result.
 
@@ -42,22 +35,64 @@ Requirements
 Windows 10 or 11
 No installation, no internet connection, no extra software
 
-# Also available: SymScan Technician
-
-SymScan Technician is the full version for IT technicians and power users. Everything in Lite, plus:
-
-Tools – create and remove links (symbolic and junction) from inside SymScan
-Scan history – every saved scan is kept and can be reopened and searched, with a safe two-step delete that only removes scans whose links are gone from disk
-Site Manager – run scans on other computers through a small agent, and see their results in one place
-Quick actions – open a link's location folder or its target folder in one click
-"Not SymScan" tag – spot links that were not made by SymScan itself
-
-Get SymScan Technician on Gumroad
-
-Support
-
-Questions or problems? Open an issue on this repository.
-
 SymScan Lite v1.0 · by CrateTools
 
+#
+
+# Also available: SymScan Technician 
+
+SymScan Technician is the full version for IT technicians and power users who want more options and Site Manager administration. Everything in Lite, plus a lot more control:
+
+SymScan Technician
+Know every link on your computers. Fix the ones that break.
+
+SymScan Technician finds every symbolic link, junction, mounted drive and hardlink on a Windows machine, shows where it points, and tells you whether it still works. Then it keeps the history, lets you act on what it finds, and reaches other computers on the network too.
+
+Built for technicians who inherit messy disks, clean up after migrations, and need to prove what is and is not linked.
+
+Download SymScan Technician
+
+What you get
+
+Find every link, every time Scan the whole computer or only the folders you pick. See each link's location, its target, the volume it sits on, and whether the target is still there. Check again any time with one click.
+
+A history you can trust Every scan is saved. Reopen any scan and search it. Deleting a saved scan is safe: SymScan asks twice, and it refuses to delete a scan while any of its links still exist on disk.
+
+Tools to act on what you find Create and remove links from inside SymScan, so you can fix a broken link on the spot instead of switching tools.
+
+Work on other computers Site Manager lets you run scans on other machines through a small agent and collect the results in one place. Run it on a server, a client's PC, or a machine in another room.
+
+Find what you did not make The "Not SymScan" tag marks links that were not created by SymScan, so the unexpected ones stand out.
+
+Go straight to the source Open a link's location folder or the folder it points to, with one click.
+
+Private and offline SymScan Technician keeps everything in its own folder, works without an internet connection, and sends nothing anywhere. Nothing phones home.
+
+## Lite vs Technician
+
+| Feature | Lite (free, GitHub) | Technician |
+|:--------|:------------------:|:----------:|
+| Scan whole computer or chosen folders | ✔ | ✔ |
+| Link list, details and search | ✔ | ✔ |
+| Check now | ✔ | ✔ |
+| Save / download report | ✔ | ✔ |
+| Restart as administrator | ✔ | ✔ |
+| Saved scan history | X | ✔ |
+| Safe two-step history delete | X | ✔ |
+| Create and remove links (Tools) | X | ✔ |
+| Remote scans (Site Manager) | X | ✔ |
+| Open location / target folder | X | ✔ |
+| "Not SymScan" tag | X | ✔ |
+
+**[Get SymScan Technician on Gumroad](GUMROAD_LINK_TECHNICIAN)**
+
+Want to try the basics first? SymScan Lite on GitHub is free.
+
+Requirements
+Windows
+No installation required, no internet connection
+Remote scans need the SymScan agent running on the other machine (setup is covered in the manual)
+What is included
+SymScan Technician program (SymScan-Technician.exe)
+README and user manual
 
