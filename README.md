@@ -72,21 +72,25 @@ Private and offline SymScan Technician keeps everything in its own folder, works
 
 | Feature | Lite (free, GitHub) | Technician |
 |:--------|:------------------:|:----------:|
-| Scan whole computer or chosen folders | ✔ | ✔ |
+| Create and remove links (Tools) | X | ✔ |
+| Scan whole local computer or chosen folders | ✔ | ✔ |
+| Scan whole network for computers and chosen folders | X | ✔ |
 | Link list, details and search | ✔ | ✔ |
 | Check now | ✔ | ✔ |
 | Save / download report | ✔ | ✔ |
 | Restart as administrator | ✔ | ✔ |
 | Saved scan history | X | ✔ |
+| Saved local and netwrok machines scan history | X | ✔ |
+| All machines are in sync both remoting form Site Managet or at the machine | X | ✔ |
 | Safe two-step history delete | X | ✔ |
-| Create and remove links (Tools) | X | ✔ |
-| Remote scans (Site Manager) | X | ✔ |
+| Remote scans and operations (Site Manager) | X | ✔ |
+| Full side by side disk explorer operator for link creation (Pick and Drop) | X | ✔ |
 | Open location / target folder | X | ✔ |
-| "Not SymScan" tag | X | ✔ |
+| Open link in Tool and execute actions | X | ✔ |
+| "Not SymScan" tag display if link was not created by SymScan | X | ✔ |
+| SymScan Agent | X | ✔ |
 
 **[Get SymScan Technician on Gumroad](GUMROAD_LINK_TECHNICIAN)**
-
-Want to try the basics first? SymScan Lite on GitHub is free.
 
 Requirements
 Windows
