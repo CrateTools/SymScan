@@ -37,7 +37,6 @@ No installation, no internet connection, no extra software
 
 SymScan Lite v1.0 · by CrateTools
 
-#
 
 # Also available: SymScan Technician 
 
