@@ -84,6 +84,7 @@ Private and offline SymScan Technician keeps everything in its own folder, works
 | Safe two-step history delete | X | ✔ |
 | Remote scans and operations (Site Manager) | X | ✔ |
 | Full side by side disk explorer operator for link creation (Pick and Drop) | X | ✔ |
+| Delete Scans and History operations | X | ✔ |
 | Open location / target folder | X | ✔ |
 | Open link in Tool and execute actions | X | ✔ |
 | "Not SymScan" tag display if link was not created by SymScan | X | ✔ |
