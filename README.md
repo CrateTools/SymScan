@@ -70,25 +70,26 @@ Private and offline SymScan Technician keeps everything in its own folder, works
 ## Lite vs Technician
 
 | Feature | Lite (free, GitHub) | Technician |
-|:--------|:------------------:|:----------:|
-| Create and remove links (Tools) | X | ✔ |
+|---|:---:|:---:|
+| Create and remove links (Link Tools) | ✗ | ✔ |
+| Map folders to drive letters (Disk Tools) | ✗ | ✔ |
 | Scan whole local computer or chosen folders | ✔ | ✔ |
-| Scan whole network for computers and chosen folders | X | ✔ |
+| Scan whole network for computers and chosen folders | ✗ | ✔ |
 | Link list, details and search | ✔ | ✔ |
 | Check now | ✔ | ✔ |
 | Save / download report | ✔ | ✔ |
 | Restart as administrator | ✔ | ✔ |
-| Saved scan history | X | ✔ |
-| Saved local and netwrok machines scan history | X | ✔ |
-| All machines are in sync both remoting form Site Managet or at the machine | X | ✔ |
-| Safe two-step history delete | X | ✔ |
-| Remote scans and operations (Site Manager) | X | ✔ |
-| Full side by side disk explorer operator for link creation (Pick and Drop) | X | ✔ |
-| Delete Scans and History operations | X | ✔ |
-| Open location / target folder | X | ✔ |
-| Open link in Tools and execute actions | X | ✔ |
-| "Not SymScan" tag display if link was not created by SymScan | X | ✔ |
-| SymScan Agent | X | ✔ |
+| Saved scan history | ✗ | ✔ |
+| Saved local and network machines scan history | ✗ | ✔ |
+| All machines are in sync, both remotely from Site Manager and at the machine | ✗ | ✔ |
+| Safe two-step history delete | ✗ | ✔ |
+| Remote scans and operations (Site Manager) | ✗ | ✔ |
+| Full side-by-side disk explorer for link creation (Pick and Drop) | ✗ | ✔ |
+| Delete scans and history operations | ✗ | ✔ |
+| Open location / target folder | ✗ | ✔ |
+| Open link in Link Tools and execute actions | ✗ | ✔ |
+| "Not SymScan" tag display if a link was not created by SymScan | ✗ | ✔ |
+| SymScan Agent | ✗ | ✔ |
 
 **[Get SymScan Technician on Gumroad](GUMROAD_LINK_TECHNICIAN)**
 
