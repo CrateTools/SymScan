@@ -91,7 +91,7 @@ Private and offline SymScan Technician keeps everything in its own folder, works
 | "Not SymScan" tag display if a link was not created by SymScan | ✗ | ✔ |
 | SymScan Agent | ✗ | ✔ |
 
-**[Get SymScan Technician on Gumroad](GUMROAD_LINK_TECHNICIAN)**
+**[Get SymScan Technician on Gumroad Soon](GUMROAD_LINK_TECHNICIAN)**
 
 Requirements
 Windows
