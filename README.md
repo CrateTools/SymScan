@@ -95,6 +95,8 @@ Private and offline SymScan Technician keeps everything in its own folder, works
 
 **[Get SymScan Technician on Gumroad Soon](GUMROAD_LINK_TECHNICIAN)**
 
+# Also available: SymScan Enterprise Dev Core
+
 Requirements
 Windows
 No installation required, no internet connection
