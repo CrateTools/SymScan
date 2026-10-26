@@ -97,11 +97,15 @@ Private and offline SymScan Technician keeps everything in its own folder, works
 
 # Also available: SymScan Enterprise Dev Core
 
-Requirements
+
+
+
+
+#
+
+SymScan Requirements
+
 Windows
 No installation required, no internet connection
 Remote scans need the SymScan agent running on the other machine (setup is covered in the manual)
-What is included
-SymScan Technician program (SymScan-Technician.exe)
-README and user manual
 
