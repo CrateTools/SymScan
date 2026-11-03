@@ -1,3 +1,5 @@
+<img width="1920" height="1080" alt="SymScan_Technician_thumbnail_mirror_600_7" src="https://github.com/user-attachments/assets/5386d1e1-73ff-4eea-bad8-45a68c580568" />
+
 # SymScan Lite
 
 **Find every link on your Windows computer. Free.**
