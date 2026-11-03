@@ -93,22 +93,54 @@ Built for homelab enthusiasts and technicians who set up and maintain PCs, inher
 
 | Feature | Lite (free, GitHub) | Technician |
 |---|:---:|:---:|
-| **Create and remove links (Link Tools, side-by-side Pick and Drop)** | ✗ | ✔ |
-| **Link List: every link you made, kept after a restart** | ✗ | ✔ |
-| **Folder Disk: give a folder its own drive letter, for one or every user** | ✗ | ✔ |
-| **Network Disk: map network shares, for one or every user** | ✗ | ✔ |
-| **Site Manager: create, manage and scan on other PCs, through the SymScan Agent** | ✗ | ✔ |
-| **Link List and history kept for each machine, also while it is offline** | ✗ | ✔ |
+| **🔗 Create and manage links** | | |
+| Create junctions and symbolic links with two side-by-side folder panes (Pick and Drop) | ✗ | ✔ |
+| Preview of the exact command before anything is created | ✗ | ✔ |
+| Symbolic links to network shares, with mapped drive letters turned into the full share path so they work for every user | ✗ | ✔ |
+| Mirror Navigation: both panes follow each other through matching folders | ✗ | ✔ |
+| Link List: every link you made, kept after a restart, with its state (OK, target missing, link missing) | ✗ | ✔ |
+| Each new link is scanned at once and added to your results | ✗ | ✔ |
+| Remove links, or open any link from your results straight in Link Tools | ✗ | ✔ |
+| **📁 Folder Disk: folders as drive letters** | | |
+| Give any folder its own drive letter in Explorer | ✗ | ✔ |
+| For you, for one named person, or for every user of the PC | ✗ | ✔ |
+| Kept at sign-in: the letter comes back by itself | ✗ | ✔ |
+| See letters waiting for sign-in, with who they are for and why they are not mounted now | ✗ | ✔ |
+| **🌐 Network Disk: shares as drive letters** | | |
+| Map network shares for you, for one named person, or for every user of the PC | ✗ | ✔ |
+| Browse Share: find computers, shares and folders on your network | ✗ | ✔ |
+| Plain reasons when a drive does not connect: the server, the share or the sign-in | ✗ | ✔ |
+| No passwords stored by SymScan | ✗ | ✔ |
+| **🖥️ Site Manager: every PC from one screen** | | |
+| Pair other Windows PCs through the SymScan Agent | ✗ | ✔ |
+| Create links, Folder Disks and Network Disks on remote PCs, as if you were sitting there | ✗ | ✔ |
+| Scan remote PCs and browse their folders | ✗ | ✔ |
+| See who is signed in on each machine | ✗ | ✔ |
+| Every request signed with the pairing key; no password ever sent over the network | ✗ | ✔ |
+| Windows 10 and 11 on the same network, physical PCs and virtual machines | ✗ | ✔ |
+| **🗂️ History and tracking** | | |
+| Every scan saved, for every machine, with search | ✗ | ✔ |
+| One card per machine: its links, Folder Disks and Network Disks | ✗ | ✔ |
+| Snapshots of what SymScan set up on each machine, kept even while it is offline | ✗ | ✔ |
+| Safe two-step delete: shows which links still exist on disk first | ✗ | ✔ |
+| Report of what SymScan set up on a machine, with the link scan | ✗ | ✔ |
+| **🩺 Diagnostics** | | |
 | Clear "things to check" vs "waiting, nothing to fix" | ✗ | ✔ |
 | "Not SymScan" tag on links and letters SymScan did not create | ✗ | ✔ |
-| Saved scan history, with search and safe two-step delete | ✗ | ✔ |
-| Open location / target folder | ✗ | ✔ |
-| Settings: background tasks and uninstall clean-up check | ✗ | ✔ |
+| Open a link's location or target folder with one click | ✗ | ✔ |
+| **⚙️ Settings and clean-up** | | |
+| See and manage SymScan's background tasks | ✗ | ✔ |
+| Uninstall: check for leftovers, and clean up only what SymScan made | ✗ | ✔ |
+| Full user manual included | ✗ | ✔ |
+| **🔍 Scan and report (both editions)** | | |
 | Scan the whole computer or chosen folders | ✔ | ✔ |
+| Symbolic links, junctions, mounted volumes, subst drives, hardlinks (deep scan) | ✔ | ✔ |
+| Clone and snapshot-copy hints | ✔ | ✔ |
 | Link list, details and search | ✔ | ✔ |
 | Check now | ✔ | ✔ |
 | Save / download report | ✔ | ✔ |
 | Restart as administrator | ✔ | ✔ |
+| Offline, nothing sent anywhere | ✔ | ✔ |
 
 **[Get SymScan Technician on Gumroad (soon)](GUMROAD_LINK_TECHNICIAN)**
 
