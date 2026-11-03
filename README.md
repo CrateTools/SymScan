@@ -87,7 +87,7 @@ A server, a client's PC, a virtual machine in the next room: one screen for all 
 
 **Private and offline.** SymScan Technician keeps everything in its own folder, works without an internet connection, and sends nothing anywhere. Nothing phones home.
 
-Built for technicians who set up and maintain PCs, inherit messy disks, clean up after migrations, and need to prove what is and is not linked.
+Built for homelab enthusiasts and technicians who set up and maintain PCs, inherit messy disks, clean up after migrations, and need to prove what is and is not linked.
 
 ## Lite vs Technician
 
