@@ -53,7 +53,7 @@ SymScan Lite v1.0 · by CrateTools
 
 **Links, Folder Disks and Network Disks: made in a few clicks, tracked on every machine, run from one screen.**
 
-SymScan Lite shows you the links. **SymScan Technician puts you in control of them.** Create junctions and symbolic links, turn folders into drive letters, and map network shares for one user or every user. Do it on this PC, or on any PC you have paired on your network. SymScan keeps track of everything it made, on every machine, so you always know what is set up where.
+SymScan Lite shows you the links. **SymScan Technician puts you in control of them.** Create junctions and symbolic links, turn folders into disks with the letter you want, and map network shares into disks for one user or every user in the machine. Do it on this PC, or on any PC you have paired on your network. SymScan keeps track of everything it made, on every machine, so you always know what is set up where.
 
 When something breaks, SymScan tells you, and you can fix it on the spot.
 
