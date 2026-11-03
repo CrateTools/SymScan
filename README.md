@@ -49,7 +49,7 @@ SymScan Lite v1.0 · by CrateTools
 
 # Also available: SymScan Technician
 
-## Create links and drive letters. Manage them on every PC you look after.
+## Create links and drives. Manage them on every PC you look after.
 
 **Links, Folder Disks and Network Disks: made in a few clicks, tracked on every machine, run from one screen.**
 
