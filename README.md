@@ -43,7 +43,7 @@ SymScan Lite does not keep a history of scans. Save the report if you want to ke
 
 - Windows 10 or Windows 11 (not Windows in S mode)
 - No installation, no internet connection, no extra software
-- SymScan is not code-signed yet: security software may flag it the first time, and Windows 11's **Smart App Control** blocks it while turned on. If your antivirus quarantines it, restore it and allow it.
+- SymScan is not code-signed yet: security software may flag it the first time, Windows 11's Smart App Control could blocks it but rare. If your antivirus quarantines it, restore it and allow it.
 
 SymScan Lite v1.0 · by CrateTools
 
