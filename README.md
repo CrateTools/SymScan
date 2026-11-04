@@ -49,6 +49,9 @@ SymScan Lite does not keep a history of scans. Save the report if you want to ke
 
 SymScan Lite v1.0 · by CrateTools
 ## SymScan Lite License - This Repo
+SymScan Lite is free to use, at home or at work. It may not be sold, redistributed, changed or reverse engineered. No support is provided. See [LICENSE.txt](LICENSE.txt) for the full terms.
+
+Copyright (c) 2026 CrateTools. All rights reserved.
 
 ---
 <img width="1920" height="801" alt="SymScan_W1_letters_cards_super-wide" src="https://github.com/user-attachments/assets/1b01bf78-b93f-444c-a98b-677a52d1631d" />
@@ -158,7 +161,3 @@ Built for homelab enthusiasts and technicians who set up and maintain PCs, inher
 - Site Manager needs the SymScan Agent running on the other PC and Windows file sharing working between your PCs. Setting up your own network, accounts and permissions is your responsibility; the included manual covers the common setups.
 
 ---
-
-SymScan Lite is free to use, at home or at work. It may not be sold, redistributed, changed or reverse engineered. No support is provided. See [LICENSE.txt](LICENSE.txt) for the full terms.
-
-Copyright (c) 2026 CrateTools. All rights reserved.
