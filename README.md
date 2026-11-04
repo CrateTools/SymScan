@@ -47,12 +47,16 @@ SymScan Lite does not keep a history of scans. Save the report if you want to ke
 - SymScan is not code-signed yet: security software may flag it the first time, Windows 11's Smart App Control could blocks it. If your antivirus quarantines it, restore it and allow it.
   We’ve rarely seen this in our testing at different security levels, but every setup is different, and yours might run into it.
 
+## License
+
 SymScan Lite v1.0 · by CrateTools
 Lite License (This Repo)
 SymScan Lite is free to use, at home or at work. It may not be sold, redistributed, changed or reverse engineered. No support is provided. See [LICENSE.txt](LICENSE.md) for the full terms.
 Copyright (c) 2026 CrateTools. All rights reserved.
 
-## ---
+---
+---
+
 <img width="1920" height="801" alt="SymScan_W1_letters_cards_super-wide" src="https://github.com/user-attachments/assets/1b01bf78-b93f-444c-a98b-677a52d1631d" />
 
 # Also available: SymScan Technician
