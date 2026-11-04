@@ -50,6 +50,7 @@ SymScan Lite does not keep a history of scans. Save the report if you want to ke
 SymScan Lite v1.0 · by CrateTools
 
 ---
+<img width="1920" height="801" alt="SymScan_W1_letters_cards_super-wide" src="https://github.com/user-attachments/assets/1b01bf78-b93f-444c-a98b-677a52d1631d" />
 
 # Also available: SymScan Technician
 
