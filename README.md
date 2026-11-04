@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="SymScan_lite_thumbnail_mirror_600_7" src="https://github.com/user-attachments/assets/6108a1bb-5640-42cb-b588-378e68996c60" />
+<img width="1920" height="1080" alt="SymScan_9_letters_wide" src="https://github.com/user-attachments/assets/e52c8f3c-bd52-408d-bdcb-88384cc348e0" />
 
 # SymScan Lite
 
