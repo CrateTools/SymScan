@@ -25,6 +25,7 @@ SymScan Lite lists the links on your disks (symbolic links, junctions, mounted v
 4. Double-click **SymScan-Lite.exe**.
 
 Windows may say **"Windows protected your PC"** the first time. Click **More info**, then **Run anyway**. This happens because SymScan is not code-signed yet.
+In extensive testing, we have never encountered this scenario; however, every system installation and administration is different, and yours might present it.
 
 This repository holds the app only. The source code is not published.
 
@@ -43,7 +44,8 @@ SymScan Lite does not keep a history of scans. Save the report if you want to ke
 
 - Windows 10 or Windows 11 (not Windows in S mode)
 - No installation, no internet connection, no extra software
-- SymScan is not code-signed yet: security software may flag it the first time, Windows 11's Smart App Control could blocks it but rare. If your antivirus quarantines it, restore it and allow it.
+- SymScan is not code-signed yet: security software may flag it the first time, Windows 11's Smart App Control could blocks it. If your antivirus quarantines it, restore it and allow it.
+  We’ve rarely seen this in our testing at different security levels, but every setup is different, and yours might run into it.
 
 SymScan Lite v1.0 · by CrateTools
 
@@ -55,13 +57,13 @@ SymScan Lite v1.0 · by CrateTools
 
 **Links, Folder Disks and Network Disks: made in a few clicks, tracked on every machine, run from one screen.**
 
-SymScan Lite shows you the links. **SymScan Technician puts you in control of them.** Create junctions and symbolic links, turn folders into disks with the letter you want, and map network shares into disks for one user or every user in the machine. Do it on this PC, or on any PC you have paired on your network. SymScan keeps track of everything it made, on every machine, so you always know what is set up where.
+SymScan Lite shows you the links. **SymScan Technician puts you in control of them.** Create Junctions and Symbolic links, turn Folders into Disks with the letter you want, and Map Network Shares into disks for one user or every user in the machine. Do it on this PC, or on any PC you have paired on your network. SymScan keeps track of everything it made, on every machine, so you always know what is set up where.
 
 When something breaks, SymScan tells you, and you can fix it on the spot.
 
-**[Get SymScan Technician on Gumroad (soon)](GUMROAD_LINK_TECHNICIAN)**
+**[Get SymScan Technician on Gumroad](https://cratetools.gumroad.com/l/SymScanTechnician)**
 
-### Create and manage: the big three
+### Create and manage: The core three
 
 **1. Links, made and tracked.** Two side-by-side folder panes: pick the folder, drop it where the link should go, see a preview of exactly what will run, and confirm. Junctions and symbolic links. Every link you make goes into your **Link List**, kept after a restart, so you can check it, open it or remove it later.
 
@@ -77,7 +79,7 @@ A server, a client's PC, a virtual machine in the next room: one screen for all 
 
 ### Find what broke, and fix it
 
-**Find every link, every time.** Scan the whole computer or only the folders you pick. See each link's location, its target, the volume it sits on, and whether the target is still there. Check again any time with one click.
+**Find every link, every time.** Go to your Link Tools link list, scan the whole computer or only the folders you pick. See each link's location, its target, the volume it sits on, and whether the target is still there. Check again any time with one click.
 
 **Fix the ones that break.** Spot a link whose target is gone, open its folder or its target with one click, then remove the link or make it again with Link Tools.
 
@@ -144,7 +146,7 @@ Built for homelab enthusiasts and technicians who set up and maintain PCs, inher
 | Restart as administrator | ✔ | ✔ |
 | Offline, nothing sent anywhere | ✔ | ✔ |
 
-**[Get SymScan Technician on Gumroad (soon)](GUMROAD_LINK_TECHNICIAN)**
+**[Get SymScan Technician on Gumroad](https://cratetools.gumroad.com/l/SymScanTechnician)**
 
 ### Technician requirements
 
@@ -155,7 +157,7 @@ Built for homelab enthusiasts and technicians who set up and maintain PCs, inher
 
 ---
 
-## License
+## SymScan Lite License - This Repo
 
 SymScan Lite is free to use, at home or at work. It may not be sold, redistributed, changed or reverse engineered. No support is provided. See [LICENSE.txt](LICENSE.txt) for the full terms.
 
