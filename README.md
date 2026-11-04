@@ -51,7 +51,7 @@ SymScan Lite does not keep a history of scans. Save the report if you want to ke
 
 SymScan Lite v1.0 · by CrateTools
 Lite License (This Repo)
-SymScan Lite is free to use, at home or at work. It may not be sold, redistributed, changed or reverse engineered. No support is provided. See [LICENSE.txt](LICENSE.md) for the full terms.
+SymScan Lite is free to use, at home or at work. It may not be sold, redistributed, changed or reverse engineered. No support is provided. See [LICENSE](LICENSE.md) for the full terms.
 Copyright (c) 2026 CrateTools. All rights reserved.
 
 ---
