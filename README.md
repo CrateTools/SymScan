@@ -68,6 +68,8 @@ When something breaks, SymScan tells you, and you can fix it on the spot.
 
 **[Get SymScan Technician on Gumroad](https://cratetools.gumroad.com/l/SymScanTechnician)**
 
+**[Watch SymScan in action](https://www.youtube.com/watch?v=GnVZ0FGb0rY)**
+
 ### Create and manage: The core three
 
 **1. Links, made and tracked.** Two side-by-side folder panes: pick the folder, drop it where the link should go, see a preview of exactly what will run, and confirm. Junctions and symbolic links. Every link you make goes into your **Link List**, kept after a restart, so you can check it, open it or remove it later.
