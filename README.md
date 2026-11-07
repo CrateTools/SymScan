@@ -102,7 +102,7 @@ Built for homelab enthusiasts and technicians who set up and maintain PCs, inher
 
 ## Lite vs Technician
 
-| Feature | Lite (free, GitHub) | Technician |
+| Feature | Lite (free) | Technician |
 |---|:---:|:---:|
 | **🔗 Create and manage links** | | |
 | Create junctions and symbolic links with two side-by-side folder panes (Pick and Drop) | ✗ | ✔ |
