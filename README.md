@@ -27,7 +27,7 @@ SymScan Lite lists the links on your disks (symbolic links, junctions, mounted v
 Windows may say **"Windows protected your PC"** the first time. Click **More info**, then **Run anyway**. This happens because SymScan is not code-signed yet.
 In extensive testing, we have never encountered this scenario; however, every system installation and administration is different, and yours might present it.
 
-This repository holds the app only. The source code is not published.
+This repository holds the app only.
 
 ## Using it
 
